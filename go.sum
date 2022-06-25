@@ -1,0 +1,6 @@
+github.com/cristalhq/jwt/v4 v4.0.1 h1:OogQYpvPTJPzPG+5Nbo1qZjrrDwv8/b03IFyJ2RavK8=
+github.com/cristalhq/jwt/v4 v4.0.1/go.mod h1:HnYraSNKDRag1DZP92rYHyrjyQHnVEHPNqesmzs+miQ=
+github.com/go-funcards/jwt v0.0.0-20220623161716-8f08bc5f4956 h1:CYjTozUhWXqDmF+dhKRJZpb/Ssuhlg97w8vu3WDM09A=
+github.com/go-funcards/jwt v0.0.0-20220623161716-8f08bc5f4956/go.mod h1:4jkiWXxBdg6x0DNrA2SBV4Oo9iSIt+YyHgPxhFXFjcs=
+github.com/google/uuid v1.3.0 h1:t6JiXgmwXMjEs8VusXIJk2BXHsn+wx8BZdTaoZ5fu7I=
+github.com/google/uuid v1.3.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=

@@ -11,8 +11,8 @@ import (
 var _ Service = (*service)(nil)
 
 type Config struct {
-	TokenType string        `yaml:"token_type" env-default:"Bearer"`
-	TTL       time.Duration `yaml:"ttl" env-default:"8760h"`
+	TokenType string        `yaml:"token_type" env:"TOKEN_TYPE" env-default:"Bearer"`
+	TTL       time.Duration `yaml:"ttl" env:"TTL" env-default:"8760h"`
 }
 
 type Service interface {
